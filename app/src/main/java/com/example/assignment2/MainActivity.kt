@@ -64,6 +64,7 @@ class MainActivity : AppCompatActivity() {
         val mangotxt:TextView=findViewById(R.id.fruit4txt)
         val totaltxt:TextView=findViewById(R.id.totaltxt)
         totaltxt.text="Total is 0 JD"
+        total=0.0
         appletxt.text=""
         orangetxt.text=""
         bananatxt.text=""
